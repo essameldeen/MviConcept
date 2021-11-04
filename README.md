@@ -1,8 +1,10 @@
 # MviConcept
 Mvi Architecture Pattern
 
-* M for View for respone to Render The View To User  
-* I for All Intent can User Chose for it and sent it to ViewModel 
-* V for view Model that response for  process intent and Reduce the output to view 
+* M View -> That Respone for  Render The View To User  
+* I Intent ->  All Possible Intent can User Chose for it and sent it to ViewModel 
+* V view Model -> That Response for  process intent and Reduce the output to view 
+* ViewState -> Represent all State  can displayed to user like [loading - Error - Success - Reuslt ]
+ 
 
-#This Simple App To Show cycle of Mvi 
+This Simple App To Show cycle of Mvi 
